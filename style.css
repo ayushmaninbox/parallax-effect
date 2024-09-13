@@ -165,3 +165,17 @@ html {
         font-size: 7vw;
     }
 }
+
+@media (max-width: 600px) {
+    body, html {
+        overflow: auto; 
+    }
+
+    .banner {
+        height: auto; 
+    }
+    
+    .banner .bg:nth-child(3) {
+        top: 10%; 
+    }
+}
