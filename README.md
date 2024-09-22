@@ -24,7 +24,7 @@ This project implements a responsive parallax scrolling banner using HTML, CSS, 
 1. Clone the repository to your local machine:
    ```bash
 
-   git clone https://github.com/yourusername/parallax-banner.git
+   git clone https://github.com/ayushmaninbox/parallax-effect/
 2. Navigate to the project folder:
    ```bash
    cd parallax-banner
